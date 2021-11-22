@@ -1,0 +1,2 @@
+# Model_deployment_using_AWS
+The deployment project is intended to be done using Amazon's SageMaker platform. In this project there is a working notebook instance which presents Sentiment analysis of IMDB movie reviews dataset using LSTM model which we are going to deploy on high level and low level, and test it using a web app service (HTTP POST) via an endpoint (LAMBDA function + API gateway) This project is the fifth requirement to graduate from Udacity's Deep learning Nano-degree.
